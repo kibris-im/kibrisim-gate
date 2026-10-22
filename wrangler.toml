@@ -21,3 +21,18 @@ PERMANENT_REDIRECTS = "0"     # set "1" once defensive domains are final (301 in
 #   wrangler secret put N8N_WEBHOOK_URL
 #   wrangler secret put N8N_SECRET
 #   wrangler secret put TURNSTILE_SECRET
+
+routes = [
+  { pattern = "kibrisim.com.tr", custom_domain = true },
+  { pattern = "kibris.im", custom_domain = true },
+  { pattern = "imkibris.com", custom_domain = true },
+  { pattern = "imkibris.com.tr", custom_domain = true },
+  { pattern = "imkibris.net", custom_domain = true },
+  { pattern = "imkıbrıs.com.tr", custom_domain = true },
+  { pattern = "imkıbrıs.com", custom_domain = true },
+  { pattern = "imkıbrıs.net", custom_domain = true },
+  { pattern = "kıbrısım.com", custom_domain = true },
+  { pattern = "kıbrısım.com.tr", custom_domain = true },
+  { pattern = "kıbrısım.net", custom_domain = true },
+  { pattern = "kibrisim.tr", custom_domain = true },
+]
