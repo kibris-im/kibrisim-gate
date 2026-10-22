@@ -43,7 +43,7 @@ const I18N = {
     errVerify: 'Doğrulama tamamlanamadı. Lütfen tekrar deneyin.',
     slogan: '«Güven, bir selamla başlar.»',
     subSlogan: 'Kuzey Kıbrıs işletmelerini, esnafını ve mekanlarını gerçek bir güven ağıyla buluşturan yerel platform.',
-    arch: 'Teknoloji ortağı: <a href="https://eplani.com.tr" target="_blank" rel="noopener">EPLANI</a>',
+    arch: 'Teknoloji partneri: <a href="https://eplani.com.tr" target="_blank" rel="noopener">EPLANI</a>',
     privH: 'Gizlilik bildirimi',
     note: 'E-posta adresiniz yalnızca bu beta başvurusu için kullanılır.',
     privLink: 'Gizlilik ve KVKK bilgilendirmesi',
@@ -82,6 +82,7 @@ const jsonForScript = (o) => JSON.stringify(o).replace(/</g, '\\u003c').replace(
 function securityHeaders(nonce, { turnstile }) {
   const csp = [
     "default-src 'none'",
+    `frame-src https://challenges.cloudflare.com; script-src 'nonce-${nonce}'${turnstile ? " https://challenges.cloudflare.com" : ""}`,
     `script-src 'nonce-${nonce}'${turnstile ? ' https://challenges.cloudflare.com' : ''}`,
     `style-src 'nonce-${nonce}' https://fonts.googleapis.com`,
     "font-src https://fonts.gstatic.com",
@@ -431,7 +432,7 @@ function pageHtml(env, nonce, host) {
   </div>
 </main>
 ${turnstile ? '<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>' : ''}
-<script nonce="${nonce}">(${client.toString()})(${jsonForScript({ i18n: I18N, art: ART })});</script>
+<script nonce="${nonce}">var __name=function(t,v){if(t)Object.defineProperty(t,"name",{value:v,configurable:!0});return t};(${client.toString()})(${jsonForScript({ i18n: I18N, art: ART })});</script>
 </body>
 </html>`;
 }
