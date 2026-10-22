@@ -25,4 +25,5 @@ $RECYCLE.BIN/
 .vscode/
 .idea/
 *.swp
-*.log
+*.log*Gatekeeper*.json
+*.secret*
