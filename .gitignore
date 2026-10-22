@@ -27,3 +27,5 @@ $RECYCLE.BIN/
 *.swp
 *.log*Gatekeeper*.json
 *.secret*
+*Gatekeeper*.json
+*.secret*
