@@ -11,7 +11,7 @@ binding = "ASSETS"
 run_worker_first = true
 
 [vars]
-TURNSTILE_SITEKEY = "0x4AAAAAAAD58k3Er3h_lTN-V"        # public key from Cloudflare Turnstile
+TURNSTILE_SITEKEY = "0x4AAAAAADS8k3Er3h_iTM-V"        # public key from Cloudflare Turnstile
 CONTROLLER_NAME = "Kıbrısım"          # who is legally responsible for the list (shown on /gizlilik)
 CONTACT_EMAIL = "destek@kibrisim.com.tr"            # privacy contact (shown on /gizlilik)
 GATE_ENABLED = "1"            # set "0" at launch: Worker steps aside, real site answers
