@@ -12,7 +12,7 @@ Pre-launch gate for kibrisim.com.tr / kibris.im. Replaces the Gemini draft.
 6. WAF → Rate limiting rule: `URI Path equals /api/signup` and `Method equals POST`, 5 requests / 10 min / IP, action Block.
 
 ## n8n side
-Import `Kibrisim_Beta_Gatekeeper_v2.json` as a NEW workflow (inactive), fix the credentials, test, then switch it on and the old one off.
+Import the gatekeeper workflow template as a NEW workflow (inactive), fix the credentials, test, then switch it on and the old one off.
 - Create credential "Kibrisim Gate Secret" (Header Auth): name `X-Kibrisim-Secret`, value = N8N_SECRET.
 - Add two columns to the sheet header row: `ID`, `Dil`.
 - Telegram buttons from the old workflow ("approve:email") stop working; new ones use short IDs.
