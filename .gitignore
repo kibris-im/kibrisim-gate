@@ -1,0 +1,28 @@
+# secrets and local config
+.dev.vars
+.env
+.env.*
+# tooling output
+node_modules/
+.wrangler/
+*.bak
+# generated for local viewing
+preview.html
+# raw masters never go in the repo
+*.jpg.orig
+masters/
+# raw design masters and archives — never commit
+tools/kibrisim-tasarim-varliklari/
+tools/*.zip
+*.zip
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+# IDE & Editor caches
+.vscode/
+.idea/
+*.swp
+*.log

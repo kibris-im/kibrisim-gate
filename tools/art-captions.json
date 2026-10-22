@@ -1,0 +1,386 @@
+[
+ {
+  "file": "girne-antik-liman-v4",
+  "d": "girne",
+  "tr": "Girne · Antik Liman",
+  "en": "Kyrenia · Old Harbour"
+ },
+ {
+  "file": "girne-hz-omer-tekkesi-v3",
+  "d": "girne",
+  "tr": "Girne · Hz. Ömer Tekkesi",
+  "en": "Kyrenia · Hz. Ömer Tekke"
+ },
+ {
+  "file": "girne-st-hilarion-kalesi-v1",
+  "d": "girne",
+  "tr": "Girne · St. Hilarion Kalesi",
+  "en": "Kyrenia · St Hilarion Castle"
+ },
+ {
+  "file": "girne-kalesi-ic-avlu-v1",
+  "d": "girne",
+  "tr": "Girne · Girne Kalesi İç Avlusu",
+  "en": "Kyrenia · Castle Courtyard"
+ },
+ {
+  "file": "girne-lapta-sahil-yolu-v2",
+  "d": "girne",
+  "tr": "Girne · Lapta Sahil Yolu",
+  "en": "Kyrenia · Lapta Coastal Walk"
+ },
+ {
+  "file": "girne-bellapais-v1",
+  "d": "girne",
+  "tr": "Girne · Bellapais Manastırı",
+  "en": "Kyrenia · Bellapais Abbey"
+ },
+ {
+  "file": "girne-alsancak-parki-v1",
+  "d": "girne",
+  "tr": "Girne · Alsancak Milli Parkı",
+  "en": "Kyrenia · Alsancak National Park"
+ },
+ {
+  "file": "girne-alagadi-plaji-v1",
+  "d": "girne",
+  "tr": "Girne · Alagadi Kaplumbağa Plajı",
+  "en": "Kyrenia · Alagadi Turtle Beach"
+ },
+ {
+  "file": "girne-karmi-koyu-v1",
+  "d": "girne",
+  "tr": "Girne · Karmi Köyü",
+  "en": "Kyrenia · Karmi Village"
+ },
+ {
+  "file": "girne-catalkoy-falezleri-v1",
+  "d": "girne",
+  "tr": "Girne · Çatalköy Falezleri",
+  "en": "Kyrenia · Çatalköy Cliffs"
+ },
+ {
+  "file": "lefkosa-buyuk-han-v2",
+  "d": "lefkosa",
+  "tr": "Lefkoşa · Büyük Han",
+  "en": "Nicosia · Büyük Han"
+ },
+ {
+  "file": "lefkosa-girne-kapisi-v3",
+  "d": "lefkosa",
+  "tr": "Lefkoşa · Girne Kapısı",
+  "en": "Nicosia · Kyrenia Gate"
+ },
+ {
+  "file": "lefkosa-dervis-pasa-konagi-v1",
+  "d": "lefkosa",
+  "tr": "Lefkoşa · Derviş Paşa Konağı",
+  "en": "Nicosia · Derviş Pasha Mansion"
+ },
+ {
+  "file": "lefkosa-bedesten-v1",
+  "d": "lefkosa",
+  "tr": "Lefkoşa · Bedesten",
+  "en": "Nicosia · Bedesten"
+ },
+ {
+  "file": "lefkosa-arabahmet-victoria-v1",
+  "d": "lefkosa",
+  "tr": "Lefkoşa · Arabahmet",
+  "en": "Nicosia · Arabahmet"
+ },
+ {
+  "file": "lefkosa-zahra-sokak-v1",
+  "d": "lefkosa",
+  "tr": "Lefkoşa · Zahra Sokak",
+  "en": "Nicosia · Zahra Street"
+ },
+ {
+  "file": "lefkosa-yigitler-burcu-v1",
+  "d": "lefkosa",
+  "tr": "Lefkoşa · Yiğitler Burcu",
+  "en": "Nicosia · Yiğitler Bastion"
+ },
+ {
+  "file": "lefkosa-barbarlik-muzesi-v1",
+  "d": "lefkosa",
+  "tr": "Lefkoşa · Barbarlık Müzesi",
+  "en": "Nicosia · Museum of Barbarism"
+ },
+ {
+  "file": "lefkosa-mevlevi-tekkesi-v1",
+  "d": "lefkosa",
+  "tr": "Lefkoşa · Mevlevi Tekkesi",
+  "en": "Nicosia · Mevlevi Tekke"
+ },
+ {
+  "file": "lefkosa-haydarpasa-camii-v1",
+  "d": "lefkosa",
+  "tr": "Lefkoşa · Haydarpaşa Camii",
+  "en": "Nicosia · Haydarpaşa Mosque"
+ },
+ {
+  "file": "lefkosa-sarayonu-venedik-sutunu-v1",
+  "d": "lefkosa",
+  "tr": "Lefkoşa · Sarayönü",
+  "en": "Nicosia · Sarayönü Square"
+ },
+ {
+  "file": "lefkosa-uray-sokak-sanat-v1",
+  "d": "lefkosa",
+  "tr": "Lefkoşa · Uray Sokak",
+  "en": "Nicosia · Uray Street"
+ },
+ {
+  "file": "lefkosa-kumarcilar-hani-v1",
+  "d": "lefkosa",
+  "tr": "Lefkoşa · Kumarcılar Hanı",
+  "en": "Nicosia · Kumarcılar Han"
+ },
+ {
+  "file": "lefkosa-selimiye-arasta-v2",
+  "d": "lefkosa",
+  "tr": "Lefkoşa · Selimiye Arastası",
+  "en": "Nicosia · Selimiye Arasta"
+ },
+ {
+  "file": "gazimagusa-lala-mustafa-pasa-v2",
+  "d": "magusa",
+  "tr": "Gazimağusa · Lala Mustafa Paşa Camii",
+  "en": "Famagusta · Lala Mustafa Pasha Mosque"
+ },
+ {
+  "file": "gazimagusa-othello-kalesi-v3",
+  "d": "magusa",
+  "tr": "Gazimağusa · Othello Kalesi",
+  "en": "Famagusta · Othello Castle"
+ },
+ {
+  "file": "gazimagusa-salamis-gymnasium-v1",
+  "d": "magusa",
+  "tr": "Gazimağusa · Salamis Gymnasium",
+  "en": "Famagusta · Salamis Gymnasium"
+ },
+ {
+  "file": "gazimagusa-canbulat-burcu-v1",
+  "d": "magusa",
+  "tr": "Gazimağusa · Canbulat Burcu",
+  "en": "Famagusta · Canbulat Bastion"
+ },
+ {
+  "file": "gazimagusa-venedik-sarayi-v1",
+  "d": "magusa",
+  "tr": "Gazimağusa · Venedik Sarayı",
+  "en": "Famagusta · Venetian Palace"
+ },
+ {
+  "file": "gazimagusa-namik-kemal-zindani-v1",
+  "d": "magusa",
+  "tr": "Gazimağusa · Namık Kemal Zindanı",
+  "en": "Famagusta · Namık Kemal Dungeon"
+ },
+ {
+  "file": "gazimagusa-sinan-pasa-camii-v1",
+  "d": "magusa",
+  "tr": "Gazimağusa · Sinan Paşa Camii",
+  "en": "Famagusta · Sinan Pasha Mosque"
+ },
+ {
+  "file": "gazimagusa-kara-kapisi-ravelin-v1",
+  "d": "magusa",
+  "tr": "Gazimağusa · Kara Kapısı",
+  "en": "Famagusta · Land Gate"
+ },
+ {
+  "file": "gazimagusa-salamis-tiyatrosu-v1",
+  "d": "magusa",
+  "tr": "Gazimağusa · Salamis Antik Tiyatrosu",
+  "en": "Famagusta · Salamis Theatre"
+ },
+ {
+  "file": "gazimagusa-st-barnabas-manastiri-v1",
+  "d": "magusa",
+  "tr": "Gazimağusa · St. Barnabas Manastırı",
+  "en": "Famagusta · St Barnabas Monastery"
+ },
+ {
+  "file": "iskele-altinkumsal-v2",
+  "d": "iskele",
+  "tr": "İskele · Altın Kumsal",
+  "en": "İskele · Golden Beach"
+ },
+ {
+  "file": "iskele-zafer-burnu-v3",
+  "d": "iskele",
+  "tr": "İskele · Zafer Burnu",
+  "en": "İskele · Cape Zafer"
+ },
+ {
+  "file": "iskele-bogaz-balikci-barinagi-v1",
+  "d": "iskele",
+  "tr": "İskele · Boğaz Balıkçı Barınağı",
+  "en": "İskele · Boğaz Fishing Harbour"
+ },
+ {
+  "file": "iskele-kantara-kalesi-v1",
+  "d": "iskele",
+  "tr": "İskele · Kantara Kalesi",
+  "en": "İskele · Kantara Castle"
+ },
+ {
+  "file": "iskele-dipkarpaz-koyu-v1",
+  "d": "iskele",
+  "tr": "İskele · Dipkarpaz Köy Meydanı",
+  "en": "İskele · Dipkarpaz Village Square"
+ },
+ {
+  "file": "iskele-apostolos-andreas-pinar-v1",
+  "d": "iskele",
+  "tr": "İskele · Apostolos Andreas",
+  "en": "İskele · Apostolos Andreas"
+ },
+ {
+  "file": "iskele-bafra-kumsali-v1",
+  "d": "iskele",
+  "tr": "İskele · Bafra Kumsalı",
+  "en": "İskele · Bafra Beach"
+ },
+ {
+  "file": "iskele-kumyali-barinagi-v1",
+  "d": "iskele",
+  "tr": "İskele · Kumyalı Barınağı",
+  "en": "İskele · Kumyalı Harbour"
+ },
+ {
+  "file": "iskele-karpaz-tabiat-parki-v1",
+  "d": "iskele",
+  "tr": "İskele · Karpaz Tabiat Parkı",
+  "en": "İskele · Karpaz Nature Park"
+ },
+ {
+  "file": "iskele-buyukkonuk-eko-koy-v1",
+  "d": "iskele",
+  "tr": "İskele · Büyükkonuk Eko-Köy",
+  "en": "İskele · Büyükkonuk Eco-Village"
+ },
+ {
+  "file": "guzelyurt-narenciye-bahceleri-v2",
+  "d": "guzelyurt",
+  "tr": "Güzelyurt · Narenciye Bahçeleri",
+  "en": "Güzelyurt · Citrus Groves"
+ },
+ {
+  "file": "guzelyurt-soli-tiyatrosu-v3",
+  "d": "guzelyurt",
+  "tr": "Güzelyurt · Soli Antik Tiyatrosu",
+  "en": "Güzelyurt · Soli Theatre"
+ },
+ {
+  "file": "guzelyurt-tren-istasyonu-v1",
+  "d": "guzelyurt",
+  "tr": "Güzelyurt · Tarihi Tren İstasyonu",
+  "en": "Güzelyurt · Historic Railway Station"
+ },
+ {
+  "file": "guzelyurt-aziz-mamas-v1",
+  "d": "guzelyurt",
+  "tr": "Güzelyurt · Aziz Mamas",
+  "en": "Güzelyurt · Saint Mamas"
+ },
+ {
+  "file": "guzelyurt-kalkanli-anit-zeytinleri-v1",
+  "d": "guzelyurt",
+  "tr": "Güzelyurt · Kalkanlı Zeytinlikleri",
+  "en": "Güzelyurt · Kalkanlı Olive Groves"
+ },
+ {
+  "file": "guzelyurt-soli-bazilikasi-kugu-v1",
+  "d": "guzelyurt",
+  "tr": "Güzelyurt · Soli Bazilikası",
+  "en": "Güzelyurt · Soli Basilica"
+ },
+ {
+  "file": "guzelyurt-arkeoloji-muzesi-v1",
+  "d": "guzelyurt",
+  "tr": "Güzelyurt · Arkeoloji Müzesi",
+  "en": "Güzelyurt · Archaeology Museum"
+ },
+ {
+  "file": "guzelyurt-bandabuliya-v1",
+  "d": "guzelyurt",
+  "tr": "Güzelyurt · Bandabuliya",
+  "en": "Güzelyurt · Bandabuliya"
+ },
+ {
+  "file": "guzelyurt-gaziveren-sahili-v1",
+  "d": "guzelyurt",
+  "tr": "Güzelyurt · Gaziveren Sahili",
+  "en": "Güzelyurt · Gaziveren Beach"
+ },
+ {
+  "file": "guzelyurt-aydinkoy-su-degirmeni-v1",
+  "d": "guzelyurt",
+  "tr": "Güzelyurt · Aydınköy Su Değirmeni",
+  "en": "Güzelyurt · Aydınköy Watermill"
+ },
+ {
+  "file": "lefke-su-kemerleri-v2",
+  "d": "lefke",
+  "tr": "Lefke · Tarihi Su Kemerleri",
+  "en": "Lefke · Historic Aqueduct"
+ },
+ {
+  "file": "lefke-vuni-sarayi-v3",
+  "d": "lefke",
+  "tr": "Lefke · Vuni Sarayı",
+  "en": "Lefke · Vouni Palace"
+ },
+ {
+  "file": "lefke-bagdadi-konaklar-v1",
+  "d": "lefke",
+  "tr": "Lefke · Bağdadi Konaklar",
+  "en": "Lefke · Traditional Mansions"
+ },
+ {
+  "file": "lefke-piri-pasa-camii-v1",
+  "d": "lefke",
+  "tr": "Lefke · Piri Mehmet Paşa Camii",
+  "en": "Lefke · Piri Mehmet Pasha Mosque"
+ },
+ {
+  "file": "lefke-aplic-vadisi-v1",
+  "d": "lefke",
+  "tr": "Lefke · Aplıç Vadisi",
+  "en": "Lefke · Aplıç Valley"
+ },
+ {
+  "file": "lefke-yesilirmak-asirlik-asma-v1",
+  "d": "lefke",
+  "tr": "Lefke · Yeşilırmak Asması",
+  "en": "Lefke · Yeşilırmak Ancient Vine"
+ },
+ {
+  "file": "lefke-gemikonagi-cmc-iskele-v1",
+  "d": "lefke",
+  "tr": "Lefke · Gemikonağı İskelesi",
+  "en": "Lefke · Gemikonağı Pier"
+ },
+ {
+  "file": "lefke-lau-seyir-tepesi-v1",
+  "d": "lefke",
+  "tr": "Lefke · LAÜ Seyir Tepesi",
+  "en": "Lefke · Lookout Hill"
+ },
+ {
+  "file": "lefke-baglikoy-eko-koy-v1",
+  "d": "lefke",
+  "tr": "Lefke · Bağlıköy Eko-Köyü",
+  "en": "Lefke · Bağlıköy Eco-Village"
+ },
+ {
+  "file": "lefke-acendu-pinari-cesmesi-v1",
+  "d": "lefke",
+  "tr": "Lefke · Acendu Pınarı",
+  "en": "Lefke · Acendu Spring"
+ }
+]
