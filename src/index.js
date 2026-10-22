@@ -82,14 +82,16 @@ const jsonForScript = (o) => JSON.stringify(o).replace(/</g, '\\u003c').replace(
 function securityHeaders(nonce, { turnstile }) {
   const csp = [
     "default-src 'none'",
-    `frame-src https://challenges.cloudflare.com; script-src 'nonce-${nonce}'${turnstile ? " https://challenges.cloudflare.com" : ""}`,
-    `script-src 'nonce-${nonce}'${turnstile ? ' https://challenges.cloudflare.com' : ''}`,
+    `script-src 'nonce-${nonce}'${turnstile ? " https://challenges.cloudflare.com" : ""}`,
+    turnstile ? "frame-src https://challenges.cloudflare.com" : "frame-src 'none'",
     `style-src 'nonce-${nonce}' https://fonts.googleapis.com`,
     "font-src https://fonts.gstatic.com",
-    "img-src 'self' data:",
-    "connect-src 'self'",
-    turnstile ? 'frame-src https://challenges.cloudflare.com' : "frame-src 'none'",
-    "base-uri 'none'", "form-action 'self'", "frame-ancestors 'none'", "object-src 'none'",
+    "img-src 'self' data: blob:",
+    `connect-src 'self'${turnstile ? " https://challenges.cloudflare.com" : ""}`,
+    "base-uri 'none'",
+    "form-action 'self'",
+    "frame-ancestors 'none'",
+    "object-src 'none'",
   ].join('; ');
   return {
     'Content-Security-Policy': csp,
